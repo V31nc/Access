@@ -1,6 +1,7 @@
 local Usernames = {
   itsyaboivincentt = true,
   ukindathic1 = true,
+  dudemaster6449 = true,
 }
 
 return Usernames
