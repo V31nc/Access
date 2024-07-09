@@ -5,6 +5,7 @@ local Usernames = {
   Vhubinheat = true,
   VHubDeveloperAlt = true,
   JackTheTypo = true,
+  hax_proh = true,
 }
 
 return Usernames
