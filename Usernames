@@ -4,6 +4,7 @@ local Usernames = {
   dudemaster6449 = true,
   Vhubinheat = true,
   VHubDeveloperAlt = true,
+  JackTheTypo = true,
 }
 
 return Usernames
