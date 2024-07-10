@@ -6,6 +6,7 @@ local Usernames = {
   VHubDeveloperAlt = true,
   JackTheTypo = true,
   hax_proh = true,
+  leepiccserver = true,
 }
 
 return Usernames
